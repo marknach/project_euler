@@ -1,1 +1,1 @@
-(1..20).inject(:lcm)
+(1..20).reduce(:lcm)
